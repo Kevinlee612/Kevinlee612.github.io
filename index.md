@@ -29,3 +29,11 @@ print("Hello World!")
 
 ### Relative Link to README
 [README.md](README.md)
+
+### Classes I am taking Winter 2021
+- CSE 110 Software Engineering
+- CSE 141 Intro to Computer Architecture
+- CSE 141L Projects on Computer Architecture
+- ECON 100C Microeconomics
+- ECON 173A Financial Markets
+- MATH 171A Intro to Numerical Optimization/Linear Programming
