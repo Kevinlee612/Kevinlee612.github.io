@@ -12,8 +12,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### My Favorite Quote
 > Tesla stock price is too high imo
 - Elon Musk, Tesla CEO
-### Markdown
 
+### Code Quoting Example
+'''
+#!/usr/bin/python3
+print("Hello World!")
+'''
+### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
