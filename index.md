@@ -39,7 +39,7 @@ print("Hello World!")
 - MATH 171A Intro to Numerical Optimization/Linear Programming
 
 ### My Task List
-- [x] Write some code
-- [x] Watch lectures
-- [] Eat
-- [] Watch Bitcoin hit $40,000 ATH
+-[x] Write some code
+-[x] Watch lectures
+-[] Eat
+-[] Watch Bitcoin hit $40,000 ATH
