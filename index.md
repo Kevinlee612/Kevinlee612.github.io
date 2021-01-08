@@ -37,3 +37,9 @@ print("Hello World!")
 - ECON 100C Microeconomics
 - ECON 173A Financial Markets
 - MATH 171A Intro to Numerical Optimization/Linear Programming
+
+### My Task List
+[x] Write some code
+[x] Watch lectures
+[] Eat
+[] Watch Bitcoin hit $40,000 ATH
