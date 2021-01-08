@@ -21,7 +21,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 print("Hello World!")
 ```
 ### Links
-[LinkedIn](https://www.linkedin.com/in/suk-chan-kevin-lee/)
+[LinkedIn](https://www.linkedin.com/in/suk-chan-kevin-lee/)\
 [GitHub](https://github.com/Kevinlee612)
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
