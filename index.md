@@ -28,7 +28,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+### Section Link to Quote
+[Go Here](https://github.com/Kevinlee612/Kevinlee612.github.io/blob/main/index.md#my-favorite-quote)
 # Header 1
 ## Header 2
 ### Header 3
