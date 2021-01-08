@@ -14,10 +14,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Elon Musk, Tesla CEO
 
 ### Code Quoting Example
-'''
+```
 #!/usr/bin/python3
 print("Hello World!")
-'''
+```
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
