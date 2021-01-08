@@ -41,5 +41,5 @@ print("Hello World!")
 ### My Task List
 - [x] Write some code
 - [x] Watch lectures
-- [] Eat
-- [] Watch Bitcoin hit $40,000 ATH
+- [ ] Eat
+- [ ] Watch Bitcoin hit $40,000 ATH
