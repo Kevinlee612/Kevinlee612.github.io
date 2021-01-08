@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Kevinlee612/Kevinlee612.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-<img src="headshot.png" width="400" height="600">
+<img src="headshot.png" width="400" height="575">
 
 ### **About Me**
 I'm currently an undergraduate at the University of California San Diego and major in Computer Science (B.S) and Mathematics-Economics (B.S).\
